@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 GuiaDev
+#  GuiaDev
 
 ### Plataforma Inteligente de Análise e Aprimoramento de Documentação Técnica
 
@@ -107,7 +107,6 @@ React 18.x + TypeScript + Vite
 - ⚛️  React com Hooks modernos
 - 📘 TypeScript para type-safety
 - ⚡ Vite para build ultrarrápido
-- 🎨 Tailwind CSS para estilização
 - 📱 Design responsivo e acessível
 ```
 
